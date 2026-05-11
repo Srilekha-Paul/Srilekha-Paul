@@ -1,118 +1,98 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Srilekha Paul</h1>
 
+<h1 align="center">
+<b><span style="color:#0B1F3A;">Frontend Developer</span></b>
+</h1>
+
 <h3 align="center">
-💻 Passionate Frontend Developer | React Enthusiast | UI Designer from India 🇮🇳
+React.js • Next.js • TypeScript
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+JavaScript+Learner;Building+Beautiful+Websites;Always+Learning+New+Things+🚀" />
+Passionate about building responsive, scalable and modern web applications with clean UI/UX.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=1E3A8A&center=true&vCenter=true&width=700&lines=React.js+Developer;Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Clean+UI+%26+Responsive+Designs" />
 </p>
 
 ---
 
-<img align="right" alt="Aesthetic Girl Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
-### 🌸 About Me
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on **My Portfolio Website**  
-  🌐 [Visit Portfolio](https://sri-paul.vercel.app/)
+- 🔭 Currently working on **Production-Grade Frontend Projects**
 
-- 🌱 I’m currently learning **JavaScript, React & TailwindCSS**
+- 🌱 Currently learning **Advanced React, Next.js & TypeScript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript & React**
+- 💼 Open to **Frontend Developer & React.js Opportunities**
 
-- 📫 Reach me at: **srilekhapaul2003@gmail.com**
+- 🌐 Portfolio: [sri-paul.vercel.app](https://sri-paul.vercel.app/)
 
-- ⚡ Fun fact: **I love creating aesthetic and responsive websites 🎨**
+- 💬 Ask me about **React.js, JavaScript, Tailwind CSS & Responsive UI**
+
+- 📫 Reach me at **srilekhapaul2003@gmail.com**
+
+- ⚡ Fun fact: **I love creating aesthetic and user-friendly interfaces 🎨**
 
 ---
 
-### 🌐 Connect With Me
+<h3 align="left">🌐 Connect with me</h3>
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/srilekha-paul/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/srilekha-paul" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/sri_pal_05" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45"/>
-</a>
-
-<a href="https://leetcode.com/sri_5515/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode" width="45" height="45"/>
-</a>
-
-<a href="https://stackoverflow.com/users/31118144/srilekha-paul" target="_blank">
-  <img src="https://cdn.simpleicons.org/stackoverflow" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="50" height="50"/>
 </a>
 
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+<h3 align="left">🛠️ Languages and Tools</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,python,c,mysql,git,github,vscode" />
-</p>
 
----
-
-### 🚀 Featured Projects
-
-✨ Jewelry E-Commerce Website  
-✨ Personal Portfolio Website  
-✨ UGC.AI Project *(In Development)*  
-✨ NCA Advanced Project *(In Development)*  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=srilekha-paul&show_icons=true&theme=radical" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilekha-paul&layout=compact&theme=radical" 
-    height="170"
-  />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,nodejs,express,mongodb,mysql,git,github,python,vscode" />
 
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+<h3 align="left">🔥 GitHub Streak</h3>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=srilekha-paul&theme=radical&border_radius=10" 
-  />
+<img src="https://streak-stats.demolab.com?user=srilekha-paul&theme=radical&border_radius=10"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+<h3 align="left">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=srilekha-paul&theme=radical&no-frame=true&row=1&column=6" 
-  />
+<img src="https://github-profile-trophy.vercel.app/?username=srilekha-paul&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-### ✨ Visitor Count
+<h3 align="left">✨ Profile Views</h3>
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=srilekha-paul&label=Profile%20Views&color=ff69b4&style=flat" 
-  />
+<img src="https://komarev.com/ghpvc/?username=srilekha-paul&label=Profile%20Views&color=1E3A8A&style=flat"/>
 </p>
 
 ---
@@ -120,4 +100,8 @@
 <h3 align="center">
 ✨ Thanks for visiting my profile ✨
 </h3>
-```
+
+
+
+
+
