@@ -15,24 +15,18 @@ Passionate about building responsive, scalable and modern web applications with 
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=1E3A8A&center=true&vCenter=true&width=500&lines=React.js+Developer;Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Clean+UI+%26+Responsive+Designs" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=1E3A8A&center=true&vCenter=true&width=700&lines=React.js+Developer;Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Clean+UI+%26+Responsive+Designs" 
     alt="Typing SVG" 
   />
 </p>
 
 ---
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" 
-    alt="Girl Coding" 
-    width="280"
-  />
-</p>
+<table>
+<tr>
+<td width="60%">
 
----
-
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
 - 🔭 Currently working on **Production-Grade Frontend Projects**
 
@@ -48,6 +42,19 @@ Passionate about building responsive, scalable and modern web applications with 
 
 - ⚡ Fun fact: **I love creating aesthetic and user-friendly interfaces 🎨**
 
+</td>
+
+<td width="40%" align="center">
+
+<img 
+  src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" 
+  width="280"
+/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🌐 Connect with me
@@ -55,15 +62,18 @@ Passionate about building responsive, scalable and modern web applications with 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/srilekha-paul/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
+
+
 
 <a href="https://github.com/srilekha-paul" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="48" />
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
+
 <a href="https://instagram.com/sri_pal_05" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" width="48" />
+<img src="https://skillicons.dev/icons?i=instagram" width="48"/>
 </a>
 
 </p>
@@ -117,6 +127,8 @@ src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,
 <h3 align="center">
 ✨ Thanks for visiting my profile ✨
 </h3>
+```
+
 
 
 
